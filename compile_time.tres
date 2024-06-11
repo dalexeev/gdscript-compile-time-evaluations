@@ -1,0 +1,6 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://cxsqjc1kkl7w1"]
+
+[ext_resource type="Script" path="res://compile_time.gd" id="1_5jemt"]
+
+[resource]
+script = ExtResource("1_5jemt")
